@@ -11,7 +11,7 @@ function App() {
   }, []);
 
   const fetchData = async () => {
-    const response = await fetch("github.com/lberqui/API-HEROES/main/db.json");
+    const response = await fetch("https://github.com/lberqui/API-HEROES/blob/main/db.json");
     const data = await response.json();
     setHeroes(data);
     console.log(data);

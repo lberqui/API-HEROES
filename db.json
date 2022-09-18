@@ -44,29 +44,7 @@
         "tipo": "heroes-marvel",
         "imagen": "https://firebasestorage.googleapis.com/v0/b/api-heroes-luis.appspot.com/o/marvel%2Fironman.webp?alt=media&token=453c7ebd-c4e8-455b-b0b0-1029bbea7b8b"
       },
-      {
-        "id": "la-patrulla-x",
-        "top": "5",
-        "nombre": "La Patrulla X",
-        "poderes": "Super Humanos",
-        "estreno": "Septiembre de 1963",
-        "descripcion": "Todo comenzá en 1963, cuando Marvel publicá The X-Men, de Stan Lee y Jack Kirby. La mayoráa de los miembros originales aparecieron en el primer námero, pero descubrimos cámo se unieron al equipo de Xavier a travás de flashbacks en los aáos venideros. Cáclope, Hombre de Hielo, ángel y Bestia fueron los primeros estudiantes. Estos cuatro, junto a Jean Grey átambián conocida como Chica Maravillosaá, fueron el nácleo del equipo durante los siguientes doce aáos,",
-        "editorial": "Marvel Comics",
-        "tipo": "heroes-marvel",
-        "imagen": "https://firebasestorage.googleapis.com/v0/b/api-heroes-luis.appspot.com/o/marvel%2Fxmen.webp?alt=media&token=eb7f4887-340c-469c-b9a6-76260a052e40"
-      },
-      {
-        "id": "hulk",
-        "top": "6",
-        "nombre": "Hulk",
-        "poderes": "Super Fuerza",
-        "estreno": "Mayo de 1962",
-        "descripcion": "El hijo de un padre abusivo, Bruce Banner creciá támido e introvertido, pero un genio cientáfico. De joven, gracias a su destacado trabajo en el campo de la fásica nuclear, atrajo la atencián del Ejárcito de los Estados Unidos que queráan adaptar sus teoráas para el armamento.",
-        "editorial": "Marvel Comics",
-        "tipo": "heroes-marvel",
-        "imagen": "https://firebasestorage.googleapis.com/v0/b/api-heroes-luis.appspot.com/o/marvel%2Fhulk.webp?alt=media&token=436f9df5-37f8-4219-bb03-c716a41bcbc2"
-      },
-
+   
       {
         "id": "batman",
         "top": "1",
@@ -110,29 +88,8 @@
         "editorial": "DC  Comics",
         "tipo": "heroes-dc",
         "imagen": "https://firebasestorage.googleapis.com/v0/b/api-heroes-luis.appspot.com/o/dc%2Fgreen-arrow.jpg?alt=media&token=ab1d0d5a-1b1e-4181-9449-9abe28d41d27"
-      },
-      {
-        "id": "cosa-pantano",
-        "top": "5",
-        "nombre": "La Cosa Del Pantano",
-        "poderes": "las plantas se comporten segán su voluntad",
-        "estreno": "Mayo de 1964",
-        "descripcion": "Historia: Tras sufrir un atentado en su laboratorio, el quámico Alec Holland cayá al pantano envuelto en llamas y recubierto por una fármula Bio-reactiva de su invencián. De ahá resurgiá convertido en una criatura vegetal que todo el mundo llamá La Cosa del Pantano.",
-        "editorial": "DC  Comics",
-        "tipo": "heroes-dc",
-        "imagen": "https://firebasestorage.googleapis.com/v0/b/api-heroes-luis.appspot.com/o/dc%2Fcosa-pantano.jpg?alt=media&token=0955c909-06ec-4e49-8228-cb3af3f40640"
-      },
-      {
-        "id": "constantine",
-        "top": "6",
-        "nombre": "Constantine",
-        "poderes": "Invisibilidad - desplazamiento temporal y dimensional",
-        "estreno": "Junio de 1965",
-        "descripcion": "Conocido como Hellblazer, Constantine es un detective de lo oculto y timador, de clase trabajadora, con residencia en Londres. Fumador compulsivo, notorio por su cinismo sin lámites, se caracteriza por su sarcasmo inexpresivo, asá como por su capacidad para la manipulacián despiadada.",
-        "editorial": "DC  Comics",
-        "tipo": "heroes-dc",
-        "imagen": "https://firebasestorage.googleapis.com/v0/b/api-heroes-luis.appspot.com/o/dc%2Fcontantine.jpg?alt=media&token=5adf3632-9121-40f8-9a1e-883b5da845ad"
       }
+   
 
 
     ]

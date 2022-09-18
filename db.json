@@ -66,40 +66,7 @@
         "tipo": "heroes-marvel",
         "imagen": "https://firebasestorage.googleapis.com/v0/b/api-heroes-luis.appspot.com/o/marvel%2Fhulk.webp?alt=media&token=436f9df5-37f8-4219-bb03-c716a41bcbc2"
       },
-      {
-        "id": "pantera-negra",
-        "top": "7",
-        "nombre": "Pantera Negra",
-        "poderes": "Fuerza - Agilidad",
-        "estreno": "Julio de 1966",
-        "descripcion": "Es el primer superhároe de tez negra de la historia de Marvel y se debe destacar que el personaje fue creado con anterioridad al Partido Pantera Negra, el cual fue fundado en octubre del mismo aáo. Es el rey y protector de la ficticia nacián africana de Wakanda.",
-        "editorial": "Marvel Comics",
-        "tipo": "heroes-marvel",
-        "imagen": "https://firebasestorage.googleapis.com/v0/b/api-heroes-luis.appspot.com/o/marvel%2Fpantera.webp?alt=media&token=29821fd9-226b-4309-a9d8-33e1263ea1b4"
-      },
-      {
-        "id": "daredevil",
-        "top": "8",
-        "nombre": "Daredevil",
-        "poderes": "Super Sentidos",
-        "estreno": "Abril de 1964",
-        "descripcion": "Cuando era niáo, Matt Murdock perdiá la vista y ganá sentidos sobrehumanos en un accidente que le enseáá a vivir sin miedo. Luego pasá a estudiar derecho, lo que lo llevá a una vida de lucha contra el crimen en Nueva York; como abogado y como vigilante Daredevil.",
-        "editorial": "Marvel Comics",
-        "tipo": "heroes-marvel",
-        "imagen": "https://firebasestorage.googleapis.com/v0/b/api-heroes-luis.appspot.com/o/marvel%2Fdaredevil.webp?alt=media&token=4a85a53d-4e52-461b-b0ba-4b42806fc9f7"
-      },
-      {
-        "id": "thor",
-        "top": "9",
-        "nombre": "Thor",
-        "poderes": "Fuerza - Rayos",
-        "estreno": "Agosto de 1963",
-        "descripcion": "Thor Odinson es el Dios del Trueno, anterior Rey de Nuevo Asgard y miembro fundador de los Vengadores. Cuando su conducta irresponsable amenazá a los Asgardianos a entrar en otra guerra con los Gigantes de Hielo, fue despojado de su poder y desterrado en la Tierra por su padre, Odán.",
-        "editorial": "Marvel Comics",
-        "tipo": "heroes-marvel",
-        "imagen": "https://firebasestorage.googleapis.com/v0/b/api-heroes-luis.appspot.com/o/marvel%2Fthor.webp?alt=media&token=94f09a8f-0d20-4dbc-ada7-a47031b0de28"
-      },
-  
+
       {
         "id": "batman",
         "top": "1",
@@ -165,40 +132,8 @@
         "editorial": "DC  Comics",
         "tipo": "heroes-dc",
         "imagen": "https://firebasestorage.googleapis.com/v0/b/api-heroes-luis.appspot.com/o/dc%2Fcontantine.jpg?alt=media&token=5adf3632-9121-40f8-9a1e-883b5da845ad"
-      },
-      {
-        "id": "flash",
-        "top": "7",
-        "nombre": "Flash",
-        "poderes": "Velocidad",
-        "estreno": "Julio de 1966",
-        "descripcion": "Jay Garrick era un estudiante universitario en 1938 que accidentalmente inhalá vapores de agua pesada despuás de tomar un descanso para fumar dentro de su laboratorio donde habáa estado trabajando. ? Como resultado, descubriá que podáa correr a una velocidad sobrehumana y que tenáa reflejos igualmente rápidos.",
-        "editorial": "DC  Comics",
-        "tipo": "heroes-dc",
-        "imagen": "https://firebasestorage.googleapis.com/v0/b/api-heroes-luis.appspot.com/o/dc%2Fflash.jpg?alt=media&token=88a86380-0d25-4fce-99ce-5d6fae8bf731"
-      },
-      {
-        "id": "rorschach",
-        "top": "8",
-        "nombre": "Rorschach",
-        "poderes": "Fuerza",
-        "estreno": "Agosto de 1967",
-        "descripcion": "Rorschach fue quizá el hároe más inquietante jamás creado para los cámics. Su brutal percepcián de la moralidad como blanco o negro reflejá la crática deconstruccián de toda la nocián de hároe de su escritor Alan Moore á un tema popular recurrente en los cámics desde los aáos 1980.",
-        "editorial": "DC  Comics",
-        "tipo": "heroes-dc",
-        "imagen": "https://firebasestorage.googleapis.com/v0/b/api-heroes-luis.appspot.com/o/dc%2Frorschach-comic.jpg?alt=media&token=819fe6b2-688f-4d9b-bd15-c48d9d3df067"
-      },
-      {
-        "id": "catwoman",
-        "top": "9",
-        "nombre": "Catwoman",
-        "poderes": "Agilidad - Fuerza",
-        "estreno": "Septiembre de 1968",
-        "descripcion": "Fue creada por Bill Finger y Bob Kane, e hizo su primera aparicián en Batman Ná 1 (primavera de 1940). Su nombre real, Selina, deriva de la deidad lunar Selene. Originalmente, Catwoman era una ladrona y rival de Batman con un disfraz de anciana, y era conocida simplemente como la Gata.",
-        "editorial": "DC  Comics",
-        "tipo": "heroes-dc",
-        "imagen": "https://firebasestorage.googleapis.com/v0/b/api-heroes-luis.appspot.com/o/dc%2Fcatwoman.jpg?alt=media&token=9cc42f8b-b6f7-441f-b788-828224b0456a"
       }
+
 
     ]
   }
